@@ -1,7 +1,3 @@
-That's a great idea\! A professional **README** file is essential for any API project. It serves as the main documentation entry point for yourself and any other developers.
-
-Here is a complete template for your Expense Tracker API's `README.md` file, tailored to your project's structure (Express, Sequelize, JWT, and Swagger documentation).
-
 -----
 
 # 📈 Expense Tracker API
@@ -35,7 +31,7 @@ You need the following installed on your system:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [YOUR_REPO_URL]
+    git clone [https://github.com/azathub/expense-tracker-api]
     cd expense-tracker-api
     ```
 
@@ -140,7 +136,3 @@ This API uses **JSON Web Tokens (JWT)** for authentication.
   * **Swagger-JSDoc / Swagger-UI** - For API documentation
 
 -----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the `LICENSE.md` file for details (if you have one).
