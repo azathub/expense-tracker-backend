@@ -1,0 +1,24 @@
+expense-tracker-api/
+├── config/
+│   └── database.js
+├── controllers/
+│   ├── authController.js
+│   ├── expenseController.js
+│   └── reportController.js
+├── middleware/
+│   ├── auth.js
+│   └── validation.js
+├── models/
+│   ├── User.js
+│   ├── Expense.js
+│   └── index.js
+├── routes/
+│   ├── auth.js
+│   ├── expenses.js
+│   └── reports.js
+├── utils/
+│   └── helpers.js
+├── .env
+├── .gitignore
+├── package.json
+└── server.js
